@@ -128,3 +128,6 @@ websocket-client==1.8.0
 wheel==0.43.0
 widgetsnbextension==4.0.13
 zstandard @ file:///croot/zstandard_1714677652653/work
+
+seaborn~=0.13.2
+scikit-learn~=1.6.1
